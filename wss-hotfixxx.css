@@ -1,0 +1,6 @@
+.teaser.teaser-internalLink .teaser-headline>:after{display:none;}
+.teaser.teaser-externalLink .teaser-headline>:after{display:none;}
+
+
+/*.tab-navigation-wrapper .tab-pane .accordion-header {display:block;}
+@media (min-width:1040px) {.tab-navigation-wrapper .js-tabnavigation--accordion-object .tab-pane > .accordion-header {display:none;}}*/

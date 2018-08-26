@@ -1,0 +1,36 @@
+.c-header__nav-icon-text {
+    display: none;
+    }
+    .c-header__nav-icon {
+    color: inherit;
+    width: 18px;
+    text-align: inherit;
+    height: 16px;
+    line-height: 14px;
+    }
+    @media only screen and (min-width: 455px) {
+    .c-header__nav-icon {
+    color: #a4a4a4;
+    width: 66px;
+    text-align: left;
+    }
+    .c-header__nav-icon-text {
+    display: inline;
+    position:relative;
+    left:24px;
+    }
+    .c-header__nav-icon:hover {
+    color: #383838;
+    }
+    }
+    
+    
+    .magenta-line hr {
+    background-color: #E20074;
+    height: 2px;
+    border: 0;
+    margin: 24px 0;
+    }
+    
+    
+    
